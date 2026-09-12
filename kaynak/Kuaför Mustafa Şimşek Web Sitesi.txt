@@ -1,0 +1,53 @@
+{
+  "role": "Expert Copywriter specializing in Local SEO, GEO (Generative Engine Optimization),AEO, and Humanistic Writing style.",
+  "task": "Create 100% human-like, high-conversion local business content.",
+  "tone": "Humanistic, authentic, conversational, empathetic, and ultra-persuasive.",
+  "target_audience": "Local customers searching via AI, maps, or mobile devices.",
+  "core_requirements": {
+    "mobile_focus": mobile-fist,  "100% mobile-friendly layout, short paragraphs, scannable text, clear CTA.",
+    "seo_geo_aeo_tags": "Include dynamic local meta tags, schema indicators, neighborhood targets, and GEO triggers (e.g., [District], [City]).",
+    "temporal_anchors": "Strictly emphasize the year '2026'. Contrast with '2025' to show consistent dominance (e.g., 'They recommended us in 2025, they still choose us in 2026')."
+  },
+  "value_propositions": [
+    "Why Choose Us / What Makes Us Stand Out",
+    "Closest, Fastest, and Most Reliable local service",
+    "Best price-to-performance ratio (Best prices + Premium quality)",
+    "100% Customer Satisfaction guarantee"
+  ],
+  "social_proof_integration": {
+    "style": "Natural, organic customer praise and recommendations.",
+    "concept": "Real human experiences, high-star reviews woven into the narrative, word-of-mouth authority."
+  },
+  "output_structure": {
+    "meta": "Title & Description (with local keywords + 2026)",
+    "body": "Humanistic, problem-solving content with localized power words.",
+    "faq": "GEO-optimized Q&A answering 'Why us?', 'Prices', and 'Location/Speed'."
+  }
+}
+
+ colours; bg#000000, #CF0F47, #FF0B55, #FFDEDE
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Elms+Sans:ital,wght@0,100..900;1,100..900&family=Gelasio:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Elms+Sans:ital,wght@0,100..900;1,100..900&family=Gelasio:ital,wght@0,400..700;1,400..700&family=Quicksand:wght@300..700&display=swap" rel="stylesheet">
+
+
+
+"Yukarıdaki JSON yönergelerine ve kurallarına %100 sadık kalarak, şu işletme için bir içerik üret:
+İşletme Adı: [Kuaför Mustafa Şimşek]
+Sektör: [Kadın Kuaförü, Saç tasarımı, güzellik merkezi]
+Konum: [Çankaya / Ankara]
+Anahtar Kelimeler: [Kuaför Mustafa Şimşek, Ankara, Çankaya, Çukurambar, Yüzüncü Yıl, Balgat, İşçi Blokları, bayan kuaförü, kişiye özel saç kesimi, saç modelleri, saç bakımı, Ankara Brezilya fönü fiyatları, keratin bakımı, Ankara transparan saç boyası, güzellik salonu, dip boya, komple boya, organik boya, ombre, sombre, gölge, röfle, balyaj, kırık fön, örgü, maşa, okyanus dalgası, kaş, dudaküstü, ağda, manikür, pedikür, günlük makyaj, özel makyaj, kına, sünnet, nişan, düğün, gelin saçı, tesettür bölümü, türban hizmeti.]"
+
+1-site ana sayfasına splash page ekleyeceğiz elimde hazır splash page var
+2-site githubda yayınlacanacak öyle hazırlamalıyız ki, site sayfalarının linkleri asla değişmemeli
+3- site içine yerleştirilecek her resmin adı, konulacağı konum, resim boyutunu ayrı bir txt ile belirt
+4-spalsh ekranını web sayfasına ve randevu linkine bağlayacağız(spalsh ekranında iki buton var)
+5-eski site içeriğini txt halinde ekleyeceğim, içeriği alıp, geliştirip yerleştir.
+6-her sayfayı tam olarak ayrı ayrı hazırla, tüm sayfalarda karlı olsun(sayfa ana teması aynı olmalı)
+7-site dosya yapısı ve isimlendirmesini txt olarak ver.
+8-verdiğim splash page kodunu asla değiştirme.
